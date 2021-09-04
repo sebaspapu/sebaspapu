@@ -39,11 +39,31 @@
 <br />
 
 ---
-
+<br>
 
 [youtube]: https://www.youtube.com/channel/UC1mQFTaLauHMdC_h4GrgU3g
 [instagram]: https://www.instagram.com/cbas1.9
 [linkedin]: https://www.linkedin.com/in/sebas-bolaños-2021
 
-
+<!-- Para saber cuales son los lenguajes mas utilizados en mi repositorio -->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sebaspapu&theme=blue-green)
+
+---
+<!-- 
+para saber quien contribuyo a un determinado repositorio:
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=sebaspapu/Hoja_de_vida_SBM)
+
+-->
+<br>
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=sebaspapu)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sebaspapu&show_icons=true)
+
+
+---
+<!-- Para saber cuantas personas han visto uno de los repositorios en especifico:
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/sebaspapu/Hoja_de_vida_SBM)
+-->
