@@ -54,7 +54,6 @@ para saber quien contribuyo a un determinado repositorio:
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=sebaspapu/Hoja_de_vida_SBM)
 
 -->
-<br>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=sebaspapu)
 
