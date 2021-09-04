@@ -39,7 +39,6 @@
 <br />
 
 ---
-<br>
 
 [youtube]: https://www.youtube.com/channel/UC1mQFTaLauHMdC_h4GrgU3g
 [instagram]: https://www.instagram.com/cbas1.9
