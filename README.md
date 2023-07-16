@@ -1,10 +1,10 @@
 ### Hi there, I'm Sebastian Bolaños 👋
 
-## I'm a Engineering student!!
+## I'm a Engineering Student!!
 
 - 🌱 I’m currently learning everything ✋
 - 👯 I’m looking to collaborate with other persons.
-- 🥅 2021 Goals: Contribute to Open Source projects 
+- 🥅 2023 Goals: Contribute to Open Source projects 
 - ⚡ Fun fact: I love to play videogames and make exercise 🚴‍♂️
 
 ### Connect with me:
