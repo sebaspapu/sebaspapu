@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything ✋
 - 👯 I’m looking to collaborate with other persons.
-- 🥅 2024 Goals: Contribute to Open Source projects 
+- 🥅 2025 Goals: Contribute to Open Source projects 
 - ⚡ Fun fact: I love to play videogames and make exercise 🚴‍♂️
 
 ### Connect with me:
